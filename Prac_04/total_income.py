@@ -1,6 +1,7 @@
 """
 CP1404/CP5632 Practical
 Starter code for cumulative total income program
+Github Link: https://github.com/minhquan0902/CP1404Practical/tree/master/Prac_04
 """
 
 

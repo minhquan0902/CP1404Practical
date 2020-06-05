@@ -1,3 +1,7 @@
+'''
+Git Hub Link : https://github.com/minhquan0902/CP1404Practical/tree/master/Prac_04
+'''
+
 list =[]
 number_1 = int(input("Number: "))
 list.append(number_1)

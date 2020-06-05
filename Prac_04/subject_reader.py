@@ -1,6 +1,7 @@
 """
 CP1404/CP5632 Practical
 Data file -> lists program
+Git Hub Link: https://github.com/minhquan0902/CP1404Practical/tree/master/Prac_04
 """
 
 FILENAME = "subject_data.txt"

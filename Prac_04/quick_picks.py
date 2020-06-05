@@ -1,3 +1,6 @@
+'''
+Github Link: https://github.com/minhquan0902/CP1404Practical/tree/master/Prac_04
+'''
 import random
 
 def main():
